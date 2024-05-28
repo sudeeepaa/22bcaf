@@ -5,7 +5,7 @@ public static void main(String args[])
 {  
 int n, num, firstHalf, secondHalf, digits = 0, squareOfSum = 0;  
 Scanner sc = new Scanner(System.in);  
-System.out.print("Enter a number to check: ");  
+System.out.print("Enter a number to check: "); 
 //reads an integer from the user  
 n = sc.nextInt();  
 //assign the value of n into num  
@@ -39,8 +39,8 @@ System.out.println(n+" is not a tech number.");
 }  
 }  
 else  
-{  
-System.out.println(n+ " is not a tech number.");  
-}  
+{
+System.out.println("git pull edit")
+}
 }  
 }  
